@@ -1,0 +1,43 @@
+🔰 Beginner Level – Syntax, Loops, Functions (1–10)
+	1.	Write a program to check whether a number is prime or not.
+	2.	Write a function to find the factorial of a number using recursion.
+	3.	Write a Python function to count vowels and consonants in a string.
+	4.	Write a program to reverse a string without using built-in functions.
+	5.	Write a program to find the largest and smallest elements in a list.
+	6.	Write a Python program to check if a string is a palindrome.
+	7.	Write a program to print Fibonacci series up to n terms.
+	8.	Write a function to check if a number is an Armstrong number.
+	9.	Write a Python program to swap two variables without using a third variable.
+	10.	Create a menu-driven calculator using functions (add, subtract, multiply, divide).
+
+⸻
+
+🔁 Intermediate – Data Structures, Comprehensions, File I/O (11–20)
+	11.	Write a program to sort a list of dictionaries by a key (e.g., age).
+	12.	Use list comprehension to create a list of squares of even numbers from 1 to 50.
+	13.	Write a program to remove duplicates from a list while preserving the order.
+	14.	Write a function to merge two dictionaries.
+	15.	Create a program that counts the frequency of each word in a given file.
+	16.	Implement a program that writes and reads a list of numbers to a file.
+	17.	Write a Python program to convert a list into a nested dictionary of the form {'a': {'b': {'c': 'value'}}}.
+	18.	Write a program that flattens a nested list (e.g., [[1, 2], [3, 4]] → [1, 2, 3, 4]).
+	19.	Write a program to find common elements in two lists.
+	20.	Write a program to check if two strings are anagrams.
+
+⸻
+
+🧱 Object-Oriented Programming & Error Handling (21–25)
+	21.	Create a BankAccount class with deposit and withdraw methods.
+	22.	Implement inheritance: A base class Vehicle and derived class Car.
+	23.	Write a class to track students and their grades, with methods to add and display info.
+	24.	Add exception handling to a program that divides two numbers.
+	25.	Write a Python class that uses a magic method __str__ and __len__.
+
+⸻
+
+⚙️ Advanced – Decorators, Generators, Lambda, APIs (26–30)
+	26.	Write a decorator that logs the execution time of a function.
+	27.	Create a generator function to yield even numbers up to n.
+	28.	Use map() and filter() to process a list of integers (e.g., square and filter even numbers).
+	29.	Write a Python program to consume a public API and display JSON data.
+	30.	Build a command-line todo app using a dictionary and file handling.
