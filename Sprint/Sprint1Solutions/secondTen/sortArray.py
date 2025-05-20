@@ -22,5 +22,7 @@ def sortArray(arr):
     for i in range(len(arr)):
         print(arr[i],end=" ")
     print()
-
 sortArray(arr)
+
+
+
