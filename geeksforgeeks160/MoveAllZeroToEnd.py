@@ -56,8 +56,6 @@ print(moveAllZeroToEnd1(arr))
 
 
 # Using extra space
-
-
 def moveAllZeroToEnd(arr):
     result = []
     # Step 1: Add all non-zero elements
