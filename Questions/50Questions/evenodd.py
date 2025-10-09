@@ -5,3 +5,7 @@ def checkNo(x):
         print("Odd")
     
 checkNo(2)
+
+
+
+
